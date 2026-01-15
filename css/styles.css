@@ -31,6 +31,13 @@ img {
   height: auto;
 }
 
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* =========================
    Header
 ========================= */
@@ -40,9 +47,9 @@ img {
 
 .logo {
   font-family: "Raleway", sans-serif;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.16667;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -227,11 +234,4 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #f4f4fd;
-}
-
-.container {
-  padding-left: 15px;
-  padding-right: 15px;
-  margin-left: auto;
-  margin-right: auto;
 }
