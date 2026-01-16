@@ -105,11 +105,16 @@ img {
 }
 
 .hero-btn {
+  font-family: var(--font-family);
   color: #ffffff;
   background-color: #4d5ae5;
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
 .hero-btn:hover,
@@ -181,9 +186,9 @@ img {
 }
 
 .team-role {
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -207,9 +212,9 @@ img {
 }
 
 .portfolio-type {
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -230,8 +235,8 @@ img {
 
 .footer-text {
   margin-top: 16px;
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
